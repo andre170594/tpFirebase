@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/andre/Desktop/Andre/school/Programs_in_kotlin/testeTPFirebase/app/src/main/res/drawable/selector.xml" value="0.1875" />
         <entry key="..\:/Users/andre/Desktop/Andre/school/Programs_in_kotlin/testeTPFirebase/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/andre/Desktop/Andre/school/Programs_in_kotlin/testeTPFirebase/app/src/main/res/layout/activity_modo1.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/andre/Desktop/Andre/school/Programs_in_kotlin/testeTPFirebase/app/src/main/res/layout/grid_item.xml" value="0.2" />
+        <entry key="..\:/Users/andre/Desktop/Andre/school/Programs_in_kotlin/testeTPFirebase/app/src/main/res/layout/rowitem.xml" value="0.25052083333333336" />
       </map>
     </option>
   </component>

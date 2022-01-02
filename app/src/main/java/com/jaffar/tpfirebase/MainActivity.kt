@@ -14,8 +14,6 @@ class MainActivity : AppCompatActivity() {
         bindMain = ActivityMainBinding.inflate(layoutInflater)
         setContentView(bindMain.root)
 
-
-
         bindMain.btnModo1.setOnClickListener {
             val intent = Intent(this, Modo1::class.java)
             startActivity(intent)
